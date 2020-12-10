@@ -6,7 +6,7 @@ const Featured = () => {
   return (
     <div style={{ position: "relative" }}>
       <ImageSlider />
-      <div className="artist_name">
+      <div className="event_name">
         <div className="wrapper">TomorrowLand</div>
       </div>
       <TimeUntil />
